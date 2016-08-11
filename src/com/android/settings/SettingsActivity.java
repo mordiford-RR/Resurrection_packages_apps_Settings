@@ -340,9 +340,9 @@ public class SettingsActivity extends Activity
             HomeSettings.class.getName(),
             MainSettings.class.getName(),
             AppCircleBar.class.getName(),
-	    GestureAnywhereSettings.class.getName(),	
-	    HeadsUpSettings.class.getName(),	
-            PieControl.class.getName(),	
+	    GestureAnywhereSettings.class.getName(),
+	    HeadsUpSettings.class.getName(),
+            PieControl.class.getName(),
             FloatingWindows.class.getName(),
             ButtonSettings.class.getName(),
             DisplaySettings.class.getName(),
@@ -1372,7 +1372,7 @@ public class SettingsActivity extends Activity
 		 }else if (id == R.id.kernel_adiutor) {
                     boolean supported = false;
                     try {
-                        supported = (getPackageManager().getPackageInfo("com.grarak.kerneladiutor", 0).versionCode > 0);
+                        supported = (getPackageManager().getPackageInfo("com.kerneladiutor.mod", 0).versionCode > 0);
                     } catch (PackageManager.NameNotFoundException e) {
                     }
                     if (!supported) {
