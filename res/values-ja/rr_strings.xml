@@ -413,8 +413,8 @@
   <string name="clock_font_size_21">21</string>
   <string name="clock_font_size_22">22</string>
   <string name="clock_font_size_23">23</string>
-  <!--Performance/Kernel Aduitor-->
-  <string name="kernel_aduitor">Kernel Adiutor</string>
+  <!--Performance/Kernel Adiutor-->
+  <string name="kernel_adiutor">Kernel Adiutor</string>
   <!-- Lock screen rotation -->
   <string name="display_lockscreen_rotation_title">ロック画面</string>
   <!-- Lock screen settings -->
@@ -1917,7 +1917,7 @@
   <string name="fling_pulse_color">Pulseの色</string>
   <string name="eos_fling_lavalamp_title">ラーヴァランプモード</string>
   <string name="eos_fling_lavalamp_summary">Pulseの色がゆるやかに変化します</string>
-  <string name="pulse_advanced_category">Advanced</string>
+  <string name="pulse_advanced_category">高度な設定</string>
   <string name="pulse_legacy_mode_advanced_category">フェーディングブロックの設定</string>
   <string name="pulse_custom_dimen">バーの幅</string>
   <string name="pulse_custom_div">バーの間隔</string>
