@@ -1018,7 +1018,7 @@
   <string name="weather_show_weather_title">天気を表示</string>
   <string name="weather_show_weather_summary">天候情報を表示する</string>
   <string name="weather_show_location_title">現在位置を表示</string>
-  <string name="weather_show_location_summary">現在位置表示を有効にする</string>
+  <string name="weather_show_location_summary">現在位置の表示を有効にする</string>
   <string name="weather_show_timestamp_title">Show timestamp</string>
   <string name="weather_show_timestamp_summary">Enable to show the timestamp</string>
   <string name="weather_condition_icon_title">天候アイコン</string>
@@ -1635,7 +1635,7 @@
   <string name="status_bar_header_weather_font_style_title">天気のフォント</string>
   <string name="status_bar_header_date_font_style">日付のフォント</string>
   <string name="status_bar_header_alarm_style_title">アラームのフォント</string>
-  <string name="status_bar_header_detail_font_style_title">AM/PM表示のフォント</string>
+  <string name="status_bar_header_detail_font_style_title">午前/午後 のフォント</string>
   <string name="panel_clock_sum">Show / Hide Clock In Header In Header</string>
   <string name="panel_date_sum">Show / Hide Date In Header In Header</string>
   <string name="panel_ampm_sum">Show / Hide AM / PM Values In Header</string>
