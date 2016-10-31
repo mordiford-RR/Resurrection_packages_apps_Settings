@@ -163,8 +163,8 @@
   <string name="color_picker_help_color_buttons_title">カラーボタン:</string>
   <string name="color_picker_help_favorites_title">お気に入り:</string>
   <string name="color_picker_help_favorites_summary">お気に入りは初期状態では何も登録されていません。\n新しい色はロングプレスすることでお気に入りに登録することができます。お気に入りに空きがない場合は上書きされます。\nお気に入り内の色を選択すると新しい色に設定されます。この時点では適用されません。</string>
-  <string name="color_picker_help_palette_title">Palette:\n(RR, Material and RGB)</string>
-  <string name="color_picker_help_palette_summary">All palette colors have a fixed value.\nA click sets the favorite color as new color, without applying the new color.</string>
+  <string name="color_picker_help_palette_title">パレット：\n(RR, マテリアルカラー, RGB)</string>
+  <string name="color_picker_help_palette_summary">補正されたプリセットカラーです。\nプリセットカラーを選択すると現在選択中の色が新しい色に設定されます。この時点では適用されません。</string>
   <string name="color_picker_help_do_not_show_title">今後表示しない</string>
   <string name="color_picker_help_button_ok_title">OK</string>
   <!-- RR Extra Info -->
